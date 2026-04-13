@@ -3,9 +3,6 @@
 This repository contains my **Master’s dissertation project** on forecasting future NBA player performance using deep learning and historical player-season statistics.
 
 **Dissertation title:** *Predicting NBA Players Future Value Over Replacement Player using Deep Learning*  
-**Author:** Rajat Choudhary  
-**Degree:** MSc, University of Glasgow  
-**Outcome:** Awarded **A3**
 
 ## Overview
 
@@ -204,7 +201,3 @@ These are important because basketball is a team sport, and player performance i
 ## Suggested topics
 
 `sports-analytics` `deep-learning` `nba` `basketball-analytics` `tensorflow` `regression` `dissertation` `player-forecasting`
-
-## Author
-
-**Rajat Choudhary**
